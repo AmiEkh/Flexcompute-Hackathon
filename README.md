@@ -117,14 +117,6 @@ Each stage contains:
 
 ---
 
-# ⚠️ Notes
-
-- AI model performance is not fully stable
-- Some mismatch between predicted and simulated results
-- Model requires further training and debugging
-
----
-
 # 🧠 Key Idea
 
 Use physics-informed modeling + AI instead of brute-force FDTD.
